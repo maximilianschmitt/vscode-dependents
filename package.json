@@ -3,6 +3,7 @@
 	"displayName": "dependents",
 	"publisher": "maximilianschmitt",
 	"description": "Find dependents of a JS file",
+	"icon": "icon.png",
 	"version": "0.0.2",
 	"repository": {
 		"type": "git",

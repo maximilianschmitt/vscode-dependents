@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/maximilianschmitt/vscode-dependents/master/icon.png">
+
 # vscode-dependents
 
 Find dependents of a file in VSCode.
